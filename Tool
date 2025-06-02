@@ -5,12 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Universal Video Downloader | DATAFOX</title>
     <meta name="description" content="Download videos from multiple platforms with local processing for maximum privacy and performance">
-    <meta name="author" content="Your Name">
+    <meta name="author" content="Indrajit Das">
     <meta name="keywords" content="video downloader, universal downloader, privacy-focused, local processing">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-   
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"> 
+    <style>
+        :root{
             --primary: #2563eb;
             --primary-hover: #1d4ed8;
             --primary-active: #1e40af;
